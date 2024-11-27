@@ -1,3 +1,5 @@
+(View the raw README.md to copy code)
+
 This Project is kind of 2 Parts. 
 
   1. The Hyper-V Host
