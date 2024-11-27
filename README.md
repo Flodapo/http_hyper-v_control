@@ -1,4 +1,4 @@
-(View the raw README.md to copy code)
+(View the raw README.md to copy code or else it wont work)
 
 This Project is kind of 2 Parts. 
 
