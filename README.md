@@ -5,6 +5,9 @@ This Project is kind of 2 Parts.
   1. The Hyper-V Host
   2. The "Clients" that call the HTTP Requests
 
+It is 90% Just a Python Script that does most of the Work so you need Python installed on the Hyper-V Host.
+
+
 I use it for Home Assistant but it works via HTTP GET so you can use it in many diffrent ways.
 It supports 
   - Stoping a VM
