@@ -1,4 +1,3 @@
-Here’s a cleaned-up and formatted version of your README.md for GitHub:
 
 ```markdown
 # Hyper-V VM Control via HTTP
@@ -112,26 +111,9 @@ Feel free to submit issues or feature requests via the [GitHub repository](https
 
 ---
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
 Happy automating!
 ```
-
-### Changes Made:
-1. **Improved formatting**:
-   - Added headings for better readability.
-   - Used code blocks for commands and configurations.
-2. **Corrected spelling/grammar**:
-   - Fixed typos such as "Stoping" → "Stopping", "diffrent" → "different", etc.
-3. **Simplified explanations**:
-   - Made instructions clear and structured.
-4. **Added sections**:
-   - `Requirements`, `Contributing`, and `License` for a professional touch.
-5. **Placeholder consistency**:
-   - Ensured `<server-ip>` and `YourVMName` were consistently referenced.
-
-This version is polished, user-friendly, and adheres to common README formatting conventions for GitHub.
